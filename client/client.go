@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/vadims/sslconn"
+	"github.com/sergio-ago/sslconn"
 	"log"
 	"net"
 	"regexp"
